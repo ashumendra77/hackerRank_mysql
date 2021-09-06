@@ -1,0 +1,2 @@
+# hackerRank_mysql
+Solution
